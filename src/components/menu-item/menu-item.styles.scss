@@ -22,10 +22,6 @@
     }
   }
 
-  &.large {
-    height: 380px;
-  }
-
   &:first-child {
     margin-right: 7.5px;
   }
@@ -55,7 +51,7 @@
 
     .title {
       font-weight: bold;
-      margin: 0 6px 0;
+      margin-bottom: 6px;
       font-size: 22px;
       color: #4a4a4a;
     }
